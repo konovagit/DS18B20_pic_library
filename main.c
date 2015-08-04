@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <p18f4550.h>
 #include "DS18B20.h"
-#include <plib/delays.h>
+
 
 // PIC18F4550 Configuration Bit Settings
 
