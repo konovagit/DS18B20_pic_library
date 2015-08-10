@@ -7,8 +7,8 @@ Cependant, cette librairie est portable à l'ensemble des microcontrôleurs Micr
 **Horloge Interne**: 8MHz<br/>
 **Compilateur**: XC8 V1.34
 
-**Datasheet**:[Lien](https://github.com/konovagit/DS18B20_pic_library/blob/master/BUS%201%20WIRE.pdf)
+**Datasheet**:[Lien](https://github.com/konovagit/DS18B20_pic_library/blob/master/DS18B20.pdf)
 
 Je vous ajoute la documentation de l'école l'ENAC qui m'a permis de réaliser la librairie et bien comprendre le protocole 1-Wire.<br/>
 
-**Documentation**:[Lien](https://github.com/konovagit/DS18B20_pic_library/blob/master/DS18B20.pdf)
+**Documentation**:[Lien](https://github.com/konovagit/DS18B20_pic_library/blob/master/BUS%201%20WIRE.pdf)
